@@ -1,0 +1,17 @@
+.container{
+    width: 50%;
+    display: flex;
+    background: cyan;
+    justify-content: center;
+    margin: 120px auto;
+}
+.button{
+    background: black;
+    color: white;
+    margin: 10px 0px;
+    padding: 10px 10px;
+    width: 100%;
+    border-radius: 6px;
+    width: 10vh;
+
+}
